@@ -2,7 +2,10 @@
   "name": "jimp-compact",
   "version": "0.16.1-2",
   "description": "Compact version of Jimp",
-  "repository": "unjs/jimp-compact",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unjs/jimp-compact.git"
+  },
   "license": "MIT",
   "main": "./dist/jimp.cjs",
   "types": "./dist/jimp.d.ts",
